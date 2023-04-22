@@ -1,2 +1,2 @@
 # GlobalSuperStoreDataAnalysis
-[Some title here]('Global SuperStore Dashboard.pdf')
+Dashboard Generated ('dashboard.png')
