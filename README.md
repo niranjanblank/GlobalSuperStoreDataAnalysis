@@ -1,2 +1,2 @@
 # GlobalSuperStoreDataAnalysis
-![Dashboard Generated]('dashboard.png')
+![Dashboard Generated](dashboard.png)
